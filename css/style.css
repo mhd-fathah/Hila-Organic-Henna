@@ -294,8 +294,9 @@ button {
     background-image: url(../images/banner-bg-mehandi-4.jpg);
     height: auto;
     background-size: 100%;
-    padding: 88px 0px 25px 0px;
+    padding: 10px 0px 25px 0px;
     background-repeat: no-repeat;
+    padding-top: 88px ;
 }
 
 .banner_taital {
