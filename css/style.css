@@ -243,6 +243,8 @@ button {
     background-color: #CCFFCC;
     height: auto;
     background-size: 100%;
+    position: fixed;
+    z-index: 2;
 }
 
 .bg-light {
@@ -254,6 +256,7 @@ button {
     float: left;
     background: #10e2bd;
     height: 80px;
+    
 }
 
 .navbar-light .navbar-nav .active>.nav-link,
@@ -785,7 +788,7 @@ a:hover {
     text-align: center;
 }
 
-.main_bt a {
+.send-btn {
     width: 100%;
     margin: 0 auto;
     text-align: center;
@@ -797,12 +800,12 @@ a:hover {
     display: block;
 }
 
-.main_bt a {
+.send-btn {
     color: #ffffff;
     background-color: #d33a11;
 }
 
-.main_bt a:hover {
+.send-btn:hover {
     color: #323131;
     background-color: #ffffff;
 }
