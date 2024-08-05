@@ -369,10 +369,9 @@ button {
 
 .question-answer{
     float: left;
-    padding-left: 7rem;
-    padding-right: 15rem;
     text-align: left;
     list-style: disc;
+    padding-top: 5rem
     
     
 }
